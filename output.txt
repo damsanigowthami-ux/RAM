@@ -1,0 +1,6 @@
+Time=0   WE=1 Addr=0 DataIn=25  DataOut=x
+Time=10  WE=1 Addr=1 DataIn=50  DataOut=x
+Time=20  WE=1 Addr=2 DataIn=100 DataOut=x
+Time=30  WE=0 Addr=0 DataIn=100 DataOut=25
+Time=40  WE=0 Addr=1 DataIn=100 DataOut=50
+Time=50  WE=0 Addr=2 DataIn=100 DataOut=100
